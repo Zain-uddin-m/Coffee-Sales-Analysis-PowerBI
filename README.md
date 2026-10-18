@@ -2,9 +2,7 @@
 
 An interactive **Power BI dashboard** for exploring coffee sales performance across time, products, and cities. The report brings key business metrics into one place to support sales monitoring and comparison.
 
-![Coffee Sales Analytics Dashboard](screenshots/coffee-sales-dashboard.png)
-
-> Add a screenshot of your dashboard at `screenshots/coffee-sales-dashboard.png` to display the preview above. If you use a different filename or folder, update the image path.
+![Coffee Sales Analytics Dashboard] ![alt text](<Screenshot 2026-10-18 204714.png>)
 
 ## 📌 Project Overview
 
@@ -29,7 +27,6 @@ This project analyzes coffee sales data using Microsoft Power BI. It summarizes 
 | Average Sale | 584.35 | Average sales value shown on the dashboard |
 | Total Orders | 10K | Total order count displayed in the report |
 
-*Values are transcribed from the dashboard screenshot and may be rounded as displayed.*
 
 ### Revenue Trend
 
@@ -59,12 +56,13 @@ The city revenue chart shows **Pune** as the leading city by revenue, followed b
 
 ## 🛠️ Tools & Skills Demonstrated
 
-- **Microsoft Power BI** — dashboard development and data visualization
-- **Data analysis** — KPI interpretation and performance comparison
-- **Interactive reporting** — slicers and cross-filter exploration
-- **Business storytelling** — presenting product, time, and city-level insights
+- **Microsoft Power BI:** Dashboard development and data visualization
+- **Data analysis:** KPI interpretation and performance comparison
+- **Interactive reporting:** Slicers and cross-filter exploration
+- **Business storytelling:** Presenting product, time, and city-level insights
+- Build Data Analysis Expression (DAX) on the data to know more about the data through KPI cards
+- Excel for data cleaning, removing duplicates, errors etc
 
-If you used Power Query, DAX, Excel, SQL, or other tools during preparation, add them here only if they were part of your actual workflow.
 
 ## 📁 Repository Structure
 
